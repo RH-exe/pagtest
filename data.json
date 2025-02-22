@@ -1,0 +1,6 @@
+miCallBack([{
+    "nombre" : "",
+    "apellido" : "",
+    "imgBase64" : "" 
+}
+]);
